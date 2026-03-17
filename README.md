@@ -1,4 +1,4 @@
-A backtester that real historical price data from, runs four trading strategies side by side for comparison.
+A backtester that pulls historical price data and runs four trading strategies side by side for comparison.
 
 
 ### Features
